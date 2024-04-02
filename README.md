@@ -4,9 +4,9 @@
     ──「◄⏤͟͞ꭙͯ͢³⋆꯭ꙶ⋆꯭ͣ⋆᭄ͫ͢🍁⃝🇧𝐑𝐀𝐍𝐃𝐄𝐃 ᥫᩣ🇰𝗜𝗡𝗚𐏓꯭ ᷞ ͦ͢ ͮ ͤ𓆪🕊⃝🦋 」──  
    </h2>  
  <p align="center">   
-<img src="https://graph.org/file/51e1bf391ebb7421aca57.jpg"
+<img src="[https://graph.org/file/51e1bf391ebb7421aca57.jpg](https://telegra.ph/file/7b321305ea35c246cdac0.jpg)"
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://telegra.ph/file/7b321305ea35c246cdac0.jpg)">
 
 # ᴀʙᴏᴜᴛ 🦋🚬
 <i>ᴊᴏ ᴋʜᴀᴛᴀᴋ ʀᴀʜᴇ ʜᴀɪ ʜᴜɴᴀʀɪ ᴀᴀᴋʜᴏ ᴍᴇ.. ᴜɴᴋᴏ ʙɪᴄʜ ʀᴏᴀᴅ ᴘᴀʀ ᴘᴇʟᴇɴɢᴇ
@@ -16,7 +16,7 @@
 ᴠɪᴄᴋᴍᴀᴄʜɪɴᴇʙᴏᴛ ɪs ɴᴏᴛ ᴍɪɴᴇ.
 
 # ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ 🚀
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/WCGKING/BRANDEDCHATBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/jack77force/BRANDEDCHATBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ## <i>ᴄʜᴇᴄᴋ ᴛʜᴇ ᴅᴇᴍᴏ ʀᴏʙᴏᴛ ɢɪᴠᴇɴ ʙᴇʟᴏᴡ!</i>
